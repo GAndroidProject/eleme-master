@@ -7,3 +7,8 @@
 /captures
 .externalNativeBuild
 /.idea/
+/.idea/gradle.xml
+/.idea/markdown-navigator.xml
+/.idea/markdown-navigator/profiles_settings.xml
+/.idea/misc.xml
+/.idea/modules.xml
